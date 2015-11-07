@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["State","A state of a prepared statement."]],"struct":[["Statement","A prepared statement."]],"trait":[["Bindable","A type suitable for binding to a prepared statement."],["Readable","A type suitable for reading from a prepared statement."]]});
